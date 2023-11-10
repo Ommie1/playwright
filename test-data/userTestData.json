@@ -1,0 +1,9 @@
+{
+    "URL":"",
+    "number":"+92 313 1253924",
+    "password":"111111",
+    "invalidNumber": "1234",
+    "invalidPassword": "1234",
+    "invalidPin": "123",
+    "testPassword": "Test12345"
+}
