@@ -4,8 +4,7 @@ Playwright enables reliable end-to-end testing for modern web apps.
 
 ## Getting Started
 
-Clone the code from repository, git clone https://UmairHassan1@bitbucket.org/takaful-bazaar/ui-automation.git
-
+Clone the code from repository,
 ### Prerequisites
 
 - NodeJS
